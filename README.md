@@ -1,5 +1,6 @@
 # CloudSEK-Challenge
 This was a challenge for Cyber Security Analyst - EWYL Program
+
 This challenge was based on mixture of stegnography, cryptography, JWT tokens(Implementation), LFI(Local file inclusion) and a few basic linux commands.
 
 Used:
