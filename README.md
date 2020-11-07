@@ -4,8 +4,13 @@ This challenge was based on mixture of stegnography, cryptography, JWT tokens(Im
 
 Used:
 Base64 Encoding Decoding Online - https://www.base64decode.org/
+
 Cryptii - https://cryptii.com/
+
 Crackstation - https://crackstation.net/
+
 JWT token - https://jwt.io/
+
 Burpsuite
+
 Postman
